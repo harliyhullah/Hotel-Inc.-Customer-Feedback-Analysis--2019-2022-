@@ -121,7 +121,7 @@ Search Engine: 778 guests
 Hotel Booking Sites: 306 guests  
 Word of Mouth: 276 guests
 
-## Insights and Recommendations are available on the full report on medium [**HERE**](https://medium.com/@ajagunalliyu/customer-feedback-analysis-for-hotel-inc-using-excel-c1319f9d0451)
+## Detailed Insights and Recommendations are available in the full report on medium [**HERE**](https://medium.com/@ajagunalliyu/customer-feedback-analysis-for-hotel-inc-using-excel-c1319f9d0451)
 
 
 ## Prepared by
