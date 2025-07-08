@@ -81,8 +81,8 @@ Below are sample views of the dataset used for this project and the analysis pro
 ![](datatransformation2.png)
 
 ### Data Validation
-![](datavalidation.png)
-![](datavalidation2.png)
+![](datavalidationprocess.png)
+![](datavalidationprocess2.png)
 
 ### Pivot Tables for Analysis
 ![](pivotTables.png)
