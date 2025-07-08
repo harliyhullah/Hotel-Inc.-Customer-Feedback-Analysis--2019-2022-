@@ -1,7 +1,7 @@
 # Hotel-Inc.-Customer-Feedback-Analysis-2019-2022
 "Excel-based analysis of customer feedback data from Hotel Inc. (2019–2022) to uncover service gaps, segment guests, and generate actionable insights for improving guest satisfaction and operational performance."
 
-![](cybersecurity-concept-collage-design.jpg)
+![](person-ordering-food-restaurant.jpg)
 
 ## Table of Contents
 
@@ -72,37 +72,31 @@ Conditional Formatting and Charts
 ## Dataset
 Below are sample views of the dataset used for this project and the analysis process:
 
-### Excel Interface
-![](DatasetinExcelInterface.png)
+### Data Cleaning
+![](datacleaningpocess.png)
+![](datacleaningprocess2.png)
 
-### Power Query Interface 
-![](DatainPowerQueryInterface.png)
+### Data Transformation 
+![](datatransformation.png)
+![](datatransformation2.png)
 
-### Data Modelling (This model is a star schema)
-![](DataModelinPowerBI.png)
+### Data Validation
+![](datavalidation.png)
+![](datavalidation2.png)
 
-### DAX for Measures
-![](DAXinPowerBI.png)
+### Pivot Tables for Analysis
+![](pivotTables.png)
 
-### Date Table
-![](DateTable.png)
+### Dashboart Building
+![](ReportonExcel.png)
 
-### Fact Table
-![](FactTableinTableView.png)
 
 ## Dashboard 
-
-
 These images show parts of the developed dashboards: 
 
-### Trend, Regional and Responsiveness Analysis 
-![](Reportpage1.png)
+### Interactive Dashboard 
+![](Reportpage.png)
 
-### Sector Risk Profile and Defense Mechanism 
-![](Reportpage2.png)
-
-### Report on Power BI Interface
-![](ReportonPowerBIInterface.png)
 
 To interact with the report: [**CLICK HERE**]()
 
